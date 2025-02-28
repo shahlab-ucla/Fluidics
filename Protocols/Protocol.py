@@ -18,8 +18,8 @@ class Protocol:
 
         self.rinse_time = 60
         self.hybe_time = 600
-        self.max_speed = 1
-        self.speed = 1
+        self.max_speed = 0.1
+        self.speed = 0.1
         self.closed_speed = 0.3
         self.wait_factor = 0
         self.speed_conversion = 1.5
@@ -37,6 +37,8 @@ class Protocol:
         self.protocols['ClosedHybeImage'] = self.closed_hybe_image
         # self.protocols['ClosedBubbleRemover'] = self.closed_bubble_remover
         self.protocols['ReverseFlush'] = self.reverse_flush
+        self.protocols['60xReverseFlush'] = self.reverse_flush_60
+        self.protocols['20xReverseFlush'] = self.reverse_flush_20
         self.protocols['Prime'] = self.prime
         self.protocols['Storage2Gel'] = self.Storage2Gel
         self.protocols['Gel2Hybe'] = self.Gel2Hybe
@@ -598,7 +600,27 @@ class Protocol:
         self.primed = primed
         return pd.concat(steps,ignore_index=True)
 
-
-
+    def reverse_flush_60(self,Valve_Commands,tube):
+        tube,volume = tube.split('+')
+        volume = float(volume)
+        steps = []
+        for i in range(60):    
+            for port in Valve_Commands.keys():
+                if ('Vacume' in port)|('Air' in port):
+                    continue
+                steps.append(self.add_liquid(tube,port,float(volume),speed=self.max_speed,pause=0))
+        return pd.concat(steps,ignore_index=True)
+    
+    def reverse_flush_20(self,Valve_Commands,tube):
+        tube,volume = tube.split('+')
+        volume = float(volume)
+        steps = []
+        for i in range(20):    
+            for port in Valve_Commands.keys():
+                if ('Vacume' in port)|('Air' in port):
+                    continue
+                steps.append(self.add_liquid(tube,port,float(volume),speed=self.max_speed,pause=0))
+        return pd.concat(steps,ignore_index=True)
+    
 
         

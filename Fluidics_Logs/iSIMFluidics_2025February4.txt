@@ -1,0 +1,54 @@
+15:45:00,933 Fluidics INFO Available
+15:45:01,985 Fluidics INFO Available
+15:45:10,168 Fluidics INFO Available
+15:45:11,219 Fluidics INFO Available
+15:46:11,611 Fluidics INFO Available
+15:46:47,136 Fluidics INFO Available
+15:46:47,152 Fluidics INFO Available
+15:47:02,490 GUI INFO Checking Device Availability
+15:47:02,495 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+15:47:02,498 Fluidics INFO Command:Valve*[A]*TBS+3
+15:47:02,499 GUI INFO Checking if Device is Reponsive
+15:47:02,512 Fluidics INFO Command:Valve*[A]*TBS+3
+15:47:07,188 Fluidics INFO Command:Valve*[A]*TBS+3
+15:47:07,192 Fluidics INFO Running:Valve*[A]*TBS+3
+15:47:07,204 Protocol INFO Executing Protocol:
+15:47:07,208 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           6.7
+4      A      3     1     0   Forward           6.7
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+15:47:07,209 Fluidics INFO Protocol Summary
+15:47:07,210 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+15:47:07,211 Fluidics INFO Estimated Total Time: 31s
+15:47:07,212 Fluidics INFO Running:Valve*[A]*TBS+3
+15:47:07,214 GUI INFO Waiting Until Protocol is Complete
+15:47:07,215 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+15:47:17,898 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           6.7
+15:47:28,570 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+15:47:29,578 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           6.7
+15:47:40,263 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward           6.7
+15:47:50,966 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+15:47:51,975 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+15:47:51,977 Fluidics INFO Finished:Valve*[A]*TBS+3
+15:47:52,28 Fluidics INFO Finished:Valve*[A]*TBS+3
+15:47:52,31 GUI INFO Protocol is Complete
+15:47:56,982 Fluidics INFO Finished:Valve*[A]*TBS+3

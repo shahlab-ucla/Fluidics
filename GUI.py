@@ -1,6 +1,8 @@
 # TO RUN GUI
-#   $ C:\Users\wollmanlab\miniconda3\envs\py37\python.exe C:\GitRepos\Fluidics\GUI.py -f DevFluidics_v2
-#   $ C:\Users\wollmanlab\miniconda3\envs\py37\python.exe C:\GitRepos\Fluidics\Fluidics.py -f DevFluidics_v2
+
+# C:\Users\ScopeAdmin\anaconda3\envs\py37\python.exe C:\Users\ScopeAdmin\Documents\GitHub\Fluidics\GUI.py -f iSIMFluidics
+# C:\Users\ScopeAdmin\anaconda3\envs\py37\python.exe C:\Users\ScopeAdmin\Documents\GitHub\Fluidics\Fluidics.py -f iSIMFluidics
+
 
 # In the above code, you initialize the Fluidics executable and then overwrite the fluidics class with details from 
 # the file that follows '-f', so in this case DevFluidics_v2 contains the details of our syringe pump and comports
@@ -38,7 +40,7 @@ class GUI(tk.Frame):
         self.Fluidics = Fluidics(gui=True)
         self.ports = [i for i in self.Fluidics.Valve_Commands.keys()]
         self.protocols = [i for i in self.Fluidics.Protocol.protocols.keys()]
-        self.chambers = [i for i in self.Fluidics.Valve_Commands.keys() if len(i)==1]
+        self.chambers = [i for i in self.Fluidics.Valve_Commands.keys() if len(i)==1 or i=='Sample']
         self.chambers.append('Waste')
         self.other = ""
         self.extra = ""

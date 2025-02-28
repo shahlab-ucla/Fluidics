@@ -15,7 +15,7 @@ class ViciValve(Valve):
                                     bytesize = serial.EIGHTBITS, #8 bits
                                     parity = serial.PARITY_NONE, 
                                     stopbits = serial.STOPBITS_ONE, 
-                                    timeout = 0.1)
+                                    timeout = 1)
         self.acknowledge = " ID = "
         self.carriage_return = bytes("\r", 'utf-8')
         self.negative_acknowledge = ""
@@ -46,7 +46,11 @@ class ViciValve(Valve):
 
     def write(self, message):
         message = bytes(message, 'utf-8')
-        self.serial.write(message)
+        try:
+            self.serial.write(message)
+        except:
+            print("Failed to write: ", message)
+
 
 
     def inquireAndRespond(self, valve_ID, message, dictionary = {}, default = "Unknown"):

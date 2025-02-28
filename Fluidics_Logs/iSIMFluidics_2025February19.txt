@@ -1,0 +1,2469 @@
+13:17:59,628 Fluidics INFO Available
+13:18:00,767 Fluidics INFO Available
+13:18:26,887 Fluidics INFO Available
+13:18:45,588 Fluidics INFO Available
+13:18:50,984 Fluidics INFO Available
+13:18:53,641 Fluidics INFO Available
+13:18:54,765 Fluidics INFO Available
+13:21:04,74 Fluidics INFO Available
+13:21:05,124 Fluidics INFO Available
+13:21:06,262 Fluidics INFO Available
+13:21:11,652 Fluidics INFO Available
+13:22:22,924 Fluidics INFO Available
+13:22:23,968 Fluidics INFO Available
+13:22:25,182 Fluidics INFO Available
+13:22:30,571 Fluidics INFO Available
+13:25:45,940 Fluidics INFO Available
+13:25:47,66 Fluidics INFO Available
+13:25:47,782 Fluidics INFO Available
+13:25:53,167 Fluidics INFO Available
+13:26:03,530 GUI INFO Checking Device Availability
+13:26:03,538 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+5!
+13:26:03,540 Fluidics INFO Command:ReverseFlush*[]*TBS+5!
+13:26:03,541 GUI INFO Checking if Device is Reponsive
+13:26:03,555 Fluidics INFO Command:ReverseFlush*[]*TBS+5!
+13:26:08,188 Fluidics INFO Command:ReverseFlush*[]*TBS+5!
+13:26:08,191 Fluidics INFO Running:ReverseFlush*[]*TBS+5!
+13:26:08,256 Fluidics INFO Running:ReverseFlush*[]*TBS+5!
+13:26:08,259 GUI INFO Waiting Until Protocol is Complete
+13:26:08,265 Protocol INFO Executing Protocol:
+13:26:08,271 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      5     1     0   Reverse          10.5
+1    V1P1_1      5     1     0   Forward          10.5
+2       TBS      5     1     0   Reverse          10.5
+3    V1P1_3      5     1     0   Forward          10.5
+4       TBS      5     1     0   Reverse          10.5
+5    Valve2      5     1     0   Forward          10.5
+6       TBS      5     1     0   Reverse          10.5
+7    V1P1_4      5     1     0   Forward          10.5
+8       TBS      5     1     0   Reverse          10.5
+9    V1P1_5      5     1     0   Forward          10.5
+10      TBS      5     1     0   Reverse          10.5
+11   V1P1_6      5     1     0   Forward          10.5
+12      TBS      5     1     0   Reverse          10.5
+13        A      5     1     0   Forward          10.5
+14      TBS      5     1     0   Reverse          10.5
+15      TBS      5     1     0   Forward          10.5
+16      TBS      5     1     0   Reverse          10.5
+17  WBuffer      5     1     0   Forward          10.5
+18      TBS      5     1     0   Reverse          10.5
+19    Waste      5     1     0   Forward          10.5
+20      TBS      5     1     0   Reverse          10.5
+21   V2P1_1      5     1     0   Forward          10.5
+22      TBS      5     1     0   Reverse          10.5
+23   V2P1_2      5     1     0   Forward          10.5
+24      TBS      5     1     0   Reverse          10.5
+25   Valve3      5     1     0   Forward          10.5
+26      TBS      5     1     0   Reverse          10.5
+27   V2P1_4      5     1     0   Forward          10.5
+28      TBS      5     1     0   Reverse          10.5
+29   V2P1_5      5     1     0   Forward          10.5
+30      TBS      5     1     0   Reverse          10.5
+31   V2P1_6      5     1     0   Forward          10.5
+32      TBS      5     1     0   Reverse          10.5
+33   V2P1_7      5     1     0   Forward          10.5
+34      TBS      5     1     0   Reverse          10.5
+35   V2P1_8      5     1     0   Forward          10.5
+36      TBS      5     1     0   Reverse          10.5
+37   V2P1_9      5     1     0   Forward          10.5
+38      TBS      5     1     0   Reverse          10.5
+39  V2P1_10      5     1     0   Forward          10.5
+40      TBS      5     1     0   Reverse          10.5
+41   V3P1_1      5     1     0   Forward          10.5
+42      TBS      5     1     0   Reverse          10.5
+43   V3P1_2      5     1     0   Forward          10.5
+44      TBS      5     1     0   Reverse          10.5
+45   V3P1_3      5     1     0   Forward          10.5
+46      TBS      5     1     0   Reverse          10.5
+47   V3P1_4      5     1     0   Forward          10.5
+48      TBS      5     1     0   Reverse          10.5
+49   V3P1_5      5     1     0   Forward          10.5
+50      TBS      5     1     0   Reverse          10.5
+51   V3P1_6      5     1     0   Forward          10.5
+52      TBS      5     1     0   Reverse          10.5
+53   V3P1_7      5     1     0   Forward          10.5
+54      TBS      5     1     0   Reverse          10.5
+55   V3P1_8      5     1     0   Forward          10.5
+56      TBS      5     1     0   Reverse          10.5
+57   V3P1_9      5     1     0   Forward          10.5
+58      TBS      5     1     0   Reverse          10.5
+59  V3P1_10      5     1     0   Forward          10.5
+13:26:08,272 Fluidics INFO Protocol Summary
+13:26:08,276 Fluidics INFO Port: TBS  Total Volume: 150.0mL
+13:26:08,288 Fluidics INFO Estimated Total Time: 10m30s
+13:26:09,290 Fluidics INFO Finished:ReverseFlush*[]*TBS+5!
+13:26:09,359 Fluidics INFO Finished:ReverseFlush*[]*TBS+5!
+13:26:09,362 GUI INFO Protocol is Complete
+13:26:14,303 Fluidics INFO Finished:ReverseFlush*[]*TBS+5!
+13:27:49,735 Fluidics INFO Available
+13:27:50,783 Fluidics INFO Available
+13:27:51,869 Fluidics INFO Available
+13:27:57,264 Fluidics INFO Available
+13:27:59,768 GUI INFO Checking Device Availability
+13:27:59,775 GUI INFO Communicating with Device:Command:ReverseFlush*[A]*+3!
+13:27:59,778 Fluidics INFO Command:ReverseFlush*[A]*+3!
+13:27:59,779 GUI INFO Checking if Device is Reponsive
+13:27:59,793 Fluidics INFO Command:ReverseFlush*[A]*+3!
+13:28:02,279 Fluidics INFO Command:ReverseFlush*[A]*+3!
+13:28:02,282 Fluidics INFO Running:ReverseFlush*[A]*+3!
+13:28:02,317 Fluidics INFO Running:ReverseFlush*[A]*+3!
+13:28:02,320 GUI INFO Waiting Until Protocol is Complete
+13:28:02,335 Protocol INFO Executing Protocol:
+13:28:02,340 Protocol INFO 
+       port volume speed pause direction time_estimate
+0                3     1     0   Reverse           6.7
+1      V1P1      3     1     0   Forward           6.7
+2                3     1     0   Reverse           6.7
+3      V1P2      3     1     0   Forward           6.7
+4                3     1     0   Reverse           6.7
+5    Valve2      3     1     0   Forward           6.7
+6                3     1     0   Reverse           6.7
+7      V1P4      3     1     0   Forward           6.7
+8                3     1     0   Reverse           6.7
+9      V1P5      3     1     0   Forward           6.7
+10               3     1     0   Reverse           6.7
+11     V1P6      3     1     0   Forward           6.7
+12               3     1     0   Reverse           6.7
+13        A      3     1     0   Forward           6.7
+14               3     1     0   Reverse           6.7
+15      TBS      3     1     0   Forward           6.7
+16               3     1     0   Reverse           6.7
+17  WBuffer      3     1     0   Forward           6.7
+18               3     1     0   Reverse           6.7
+19    Waste      3     1     0   Forward           6.7
+20               3     1     0   Reverse           6.7
+21     V2P1      3     1     0   Forward           6.7
+22               3     1     0   Reverse           6.7
+23     V2P2      3     1     0   Forward           6.7
+24               3     1     0   Reverse           6.7
+25   Valve3      3     1     0   Forward           6.7
+26               3     1     0   Reverse           6.7
+27     V2P4      3     1     0   Forward           6.7
+28               3     1     0   Reverse           6.7
+29     V2P5      3     1     0   Forward           6.7
+30               3     1     0   Reverse           6.7
+31     V2P6      3     1     0   Forward           6.7
+32               3     1     0   Reverse           6.7
+33     V2P7      3     1     0   Forward           6.7
+34               3     1     0   Reverse           6.7
+35     V2P8      3     1     0   Forward           6.7
+36               3     1     0   Reverse           6.7
+37     V2P9      3     1     0   Forward           6.7
+38               3     1     0   Reverse           6.7
+39    V2P10      3     1     0   Forward           6.7
+40               3     1     0   Reverse           6.7
+41     V3P1      3     1     0   Forward           6.7
+42               3     1     0   Reverse           6.7
+43     V3P2      3     1     0   Forward           6.7
+44               3     1     0   Reverse           6.7
+45     V3P3      3     1     0   Forward           6.7
+46               3     1     0   Reverse           6.7
+47     V3P4      3     1     0   Forward           6.7
+48               3     1     0   Reverse           6.7
+49     V3P5      3     1     0   Forward           6.7
+50               3     1     0   Reverse           6.7
+51     V3P6      3     1     0   Forward           6.7
+52               3     1     0   Reverse           6.7
+53     V3P7      3     1     0   Forward           6.7
+54               3     1     0   Reverse           6.7
+55     V3P8      3     1     0   Forward           6.7
+56               3     1     0   Reverse           6.7
+57     V3P9      3     1     0   Forward           6.7
+58               3     1     0   Reverse           6.7
+59    V3P10      3     1     0   Forward           6.7
+13:28:02,342 Fluidics INFO Protocol Summary
+13:28:02,357 Fluidics INFO Estimated Total Time: 6m42s
+13:28:03,361 Fluidics INFO Finished:ReverseFlush*[A]*+3!
+13:28:03,415 Fluidics INFO Finished:ReverseFlush*[A]*+3!
+13:28:03,418 GUI INFO Protocol is Complete
+13:28:08,370 Fluidics INFO Finished:ReverseFlush*[A]*+3!
+13:28:14,302 GUI INFO Checking Device Availability
+13:28:14,309 GUI INFO Communicating with Device:Command:ReverseFlush*[A]*TBS+3!
+13:28:14,312 Fluidics INFO Command:ReverseFlush*[A]*TBS+3!
+13:28:14,313 GUI INFO Checking if Device is Reponsive
+13:28:14,325 Fluidics INFO Command:ReverseFlush*[A]*TBS+3!
+13:28:18,382 Fluidics INFO Command:ReverseFlush*[A]*TBS+3!
+13:28:18,384 Fluidics INFO Running:ReverseFlush*[A]*TBS+3!
+13:28:18,422 Fluidics INFO Running:ReverseFlush*[A]*TBS+3!
+13:28:18,424 GUI INFO Waiting Until Protocol is Complete
+13:28:18,436 Protocol INFO Executing Protocol:
+13:28:18,441 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse           6.7
+1      V1P1      3     1     0   Forward           6.7
+2       TBS      3     1     0   Reverse           6.7
+3      V1P2      3     1     0   Forward           6.7
+4       TBS      3     1     0   Reverse           6.7
+5    Valve2      3     1     0   Forward           6.7
+6       TBS      3     1     0   Reverse           6.7
+7      V1P4      3     1     0   Forward           6.7
+8       TBS      3     1     0   Reverse           6.7
+9      V1P5      3     1     0   Forward           6.7
+10      TBS      3     1     0   Reverse           6.7
+11     V1P6      3     1     0   Forward           6.7
+12      TBS      3     1     0   Reverse           6.7
+13        A      3     1     0   Forward           6.7
+14      TBS      3     1     0   Reverse           6.7
+15      TBS      3     1     0   Forward           6.7
+16      TBS      3     1     0   Reverse           6.7
+17  WBuffer      3     1     0   Forward           6.7
+18      TBS      3     1     0   Reverse           6.7
+19    Waste      3     1     0   Forward           6.7
+20      TBS      3     1     0   Reverse           6.7
+21     V2P1      3     1     0   Forward           6.7
+22      TBS      3     1     0   Reverse           6.7
+23     V2P2      3     1     0   Forward           6.7
+24      TBS      3     1     0   Reverse           6.7
+25   Valve3      3     1     0   Forward           6.7
+26      TBS      3     1     0   Reverse           6.7
+27     V2P4      3     1     0   Forward           6.7
+28      TBS      3     1     0   Reverse           6.7
+29     V2P5      3     1     0   Forward           6.7
+30      TBS      3     1     0   Reverse           6.7
+31     V2P6      3     1     0   Forward           6.7
+32      TBS      3     1     0   Reverse           6.7
+33     V2P7      3     1     0   Forward           6.7
+34      TBS      3     1     0   Reverse           6.7
+35     V2P8      3     1     0   Forward           6.7
+36      TBS      3     1     0   Reverse           6.7
+37     V2P9      3     1     0   Forward           6.7
+38      TBS      3     1     0   Reverse           6.7
+39    V2P10      3     1     0   Forward           6.7
+40      TBS      3     1     0   Reverse           6.7
+41     V3P1      3     1     0   Forward           6.7
+42      TBS      3     1     0   Reverse           6.7
+43     V3P2      3     1     0   Forward           6.7
+44      TBS      3     1     0   Reverse           6.7
+45     V3P3      3     1     0   Forward           6.7
+46      TBS      3     1     0   Reverse           6.7
+47     V3P4      3     1     0   Forward           6.7
+48      TBS      3     1     0   Reverse           6.7
+49     V3P5      3     1     0   Forward           6.7
+50      TBS      3     1     0   Reverse           6.7
+51     V3P6      3     1     0   Forward           6.7
+52      TBS      3     1     0   Reverse           6.7
+53     V3P7      3     1     0   Forward           6.7
+54      TBS      3     1     0   Reverse           6.7
+55     V3P8      3     1     0   Forward           6.7
+56      TBS      3     1     0   Reverse           6.7
+57     V3P9      3     1     0   Forward           6.7
+58      TBS      3     1     0   Reverse           6.7
+59    V3P10      3     1     0   Forward           6.7
+13:28:18,442 Fluidics INFO Protocol Summary
+13:28:18,444 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+13:28:18,456 Fluidics INFO Estimated Total Time: 6m42s
+13:28:19,468 Fluidics INFO Finished:ReverseFlush*[A]*TBS+3!
+13:28:19,522 Fluidics INFO Finished:ReverseFlush*[A]*TBS+3!
+13:28:19,525 GUI INFO Protocol is Complete
+13:28:24,475 Fluidics INFO Finished:ReverseFlush*[A]*TBS+3!
+13:29:06,565 GUI INFO Checking Device Availability
+13:29:06,572 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3!
+13:29:06,576 Fluidics INFO Command:Valve*[A]*TBS+3!
+13:29:06,577 GUI INFO Checking if Device is Reponsive
+13:29:06,590 Fluidics INFO Command:Valve*[A]*TBS+3!
+13:29:09,528 Fluidics INFO Command:Valve*[A]*TBS+3!
+13:29:09,531 Fluidics INFO Running:Valve*[A]*TBS+3!
+13:29:09,552 Fluidics INFO Running:Valve*[A]*TBS+3!
+13:29:09,555 GUI INFO Waiting Until Protocol is Complete
+13:29:09,555 Protocol INFO Executing Protocol:
+13:29:09,559 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           6.7
+4      A      3     1     0   Forward           6.7
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:29:09,562 Fluidics INFO Protocol Summary
+13:29:09,563 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:29:09,565 Fluidics INFO Estimated Total Time: 31s
+13:29:10,568 Fluidics INFO Finished:Valve*[A]*TBS+3!
+13:29:10,592 Fluidics INFO Finished:Valve*[A]*TBS+3!
+13:29:10,599 GUI INFO Protocol is Complete
+13:29:13,550 GUI INFO Checking Device Availability
+13:29:13,557 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+13:29:13,560 Fluidics INFO Command:Valve*[A]*TBS+3
+13:29:13,562 GUI INFO Checking if Device is Reponsive
+13:29:13,573 Fluidics INFO Command:Valve*[A]*TBS+3
+13:29:15,581 Fluidics INFO Command:Valve*[A]*TBS+3
+13:29:15,584 Fluidics INFO Running:Valve*[A]*TBS+3
+13:29:15,593 Protocol INFO Executing Protocol:
+13:29:15,596 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           6.7
+4      A      3     1     0   Forward           6.7
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:29:15,598 Fluidics INFO Protocol Summary
+13:29:15,599 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:29:15,601 Fluidics INFO Estimated Total Time: 31s
+13:29:15,619 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+13:29:15,620 Fluidics INFO Running:Valve*[A]*TBS+3
+13:29:15,622 GUI INFO Waiting Until Protocol is Complete
+13:37:17,252 Fluidics INFO Available
+13:37:18,296 Fluidics INFO Available
+13:37:40,644 Fluidics INFO Available
+13:37:40,675 Fluidics INFO Available
+13:38:06,928 Fluidics INFO Available
+13:38:06,962 Fluidics INFO Available
+13:38:19,190 GUI INFO Checking Device Availability
+13:38:19,194 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+13:38:19,196 Fluidics INFO Command:Valve*[A]*TBS+3
+13:38:19,197 GUI INFO Checking if Device is Reponsive
+13:38:19,202 Fluidics INFO Command:Valve*[A]*TBS+3
+13:38:21,980 Fluidics INFO Command:Valve*[A]*TBS+3
+13:38:21,981 Fluidics INFO Running:Valve*[A]*TBS+3
+13:38:21,993 Protocol INFO Executing Protocol:
+13:38:21,997 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           6.7
+4      A      3     1     0   Forward           6.7
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:38:21,997 Fluidics INFO Protocol Summary
+13:38:21,999 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:38:22,0 Fluidics INFO Estimated Total Time: 31s
+13:38:22,3 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+13:38:22,41 Fluidics INFO Running:Valve*[A]*TBS+3
+13:38:22,42 GUI INFO Waiting Until Protocol is Complete
+13:38:32,694 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           6.7
+13:38:43,377 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+13:38:44,397 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           6.7
+13:38:55,76 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward           6.7
+13:39:05,760 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+13:39:06,767 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+13:39:06,771 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:39:06,791 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:39:06,792 GUI INFO Protocol is Complete
+13:39:11,785 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:43:02,876 Fluidics INFO Available
+13:43:04,17 Fluidics INFO Available
+13:43:04,701 Fluidics INFO Available
+13:43:04,718 Fluidics INFO Available
+13:43:15,741 GUI INFO Checking Device Availability
+13:43:15,747 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+0.1
+13:43:15,749 Fluidics INFO Command:Valve*[A]*TBS+0.1
+13:43:15,750 GUI INFO Checking if Device is Reponsive
+13:43:15,761 Fluidics INFO Command:Valve*[A]*TBS+0.1
+13:43:19,742 Fluidics INFO Command:Valve*[A]*TBS+0.1
+13:43:19,744 Fluidics INFO Running:Valve*[A]*TBS+0.1
+13:43:19,755 Protocol INFO Executing Protocol:
+13:43:19,758 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS    0.1     1     0   Reverse          1.19
+4      A    0.1     1     0   Forward          1.19
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:43:19,760 Fluidics INFO Protocol Summary
+13:43:19,761 Fluidics INFO Port: TBS  Total Volume: 0.1mL
+13:43:19,762 Fluidics INFO Estimated Total Time: 20s
+13:43:19,765 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+13:43:19,780 Fluidics INFO Running:Valve*[A]*TBS+0.1
+13:43:19,782 GUI INFO Waiting Until Protocol is Complete
+13:43:20,881 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+13:43:30,447 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           6.7
+13:43:41,123 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+13:43:42,128 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS    0.1     1     0   Reverse          1.19
+13:43:44,535 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A    0.1     1     0   Forward          1.19
+13:43:46,957 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+13:43:47,977 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+13:43:47,980 Fluidics INFO Finished:Valve*[A]*TBS+0.1
+13:43:48,27 Fluidics INFO Finished:Valve*[A]*TBS+0.1
+13:43:48,34 GUI INFO Protocol is Complete
+13:43:52,994 Fluidics INFO Finished:Valve*[A]*TBS+0.1
+13:49:22,487 Fluidics INFO Available
+13:49:23,624 Fluidics INFO Available
+13:49:24,65 Fluidics INFO Available
+13:49:24,82 Fluidics INFO Available
+13:49:54,442 GUI INFO Checking Device Availability
+13:49:54,448 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+0.1
+13:49:54,450 Fluidics INFO Command:Valve*[A]*TBS+0.1
+13:49:54,451 GUI INFO Checking if Device is Reponsive
+13:49:54,455 Fluidics INFO Command:Valve*[A]*TBS+0.1
+13:49:59,139 Fluidics INFO Command:Valve*[A]*TBS+0.1
+13:49:59,142 Fluidics INFO Running:Valve*[A]*TBS+0.1
+13:49:59,154 Protocol INFO Executing Protocol:
+13:49:59,156 Fluidics INFO Running:Valve*[A]*TBS+0.1
+13:49:59,158 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           1.6
+1  Waste      3     1     0   Forward           1.6
+2             0     1     1      Wait             2
+3    TBS    0.1     1     0   Reverse          1.02
+4      A    0.1     1     0   Forward          1.02
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:49:59,158 GUI INFO Waiting Until Protocol is Complete
+13:49:59,162 Fluidics INFO Protocol Summary
+13:49:59,165 Fluidics INFO Port: TBS  Total Volume: 0.1mL
+13:49:59,166 Fluidics INFO Estimated Total Time: 10s
+13:49:59,169 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           1.6
+13:50:00,281 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+13:50:02,196 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           1.6
+13:50:05,220 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+13:50:06,229 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS    0.1     1     0   Reverse          1.02
+13:50:08,397 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A    0.1     1     0   Forward          1.02
+13:50:10,565 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+13:50:11,576 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+13:50:11,579 Fluidics INFO Finished:Valve*[A]*TBS+0.1
+13:50:11,633 Fluidics INFO Finished:Valve*[A]*TBS+0.1
+13:50:11,636 GUI INFO Protocol is Complete
+13:50:16,585 Fluidics INFO Finished:Valve*[A]*TBS+0.1
+13:51:09,398 GUI INFO Checking Device Availability
+13:51:09,402 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+13:51:09,404 Fluidics INFO Command:Valve*[A]*TBS+3
+13:51:09,405 GUI INFO Checking if Device is Reponsive
+13:51:09,420 Fluidics INFO Command:Valve*[A]*TBS+3
+13:51:11,682 Fluidics INFO Command:Valve*[A]*TBS+3
+13:51:33,776 Fluidics INFO Running:Valve*[A]*TBS+3
+13:51:33,786 Protocol INFO Executing Protocol:
+13:51:33,789 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           1.6
+1  Waste      3     1     0   Forward           1.6
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           1.6
+4      A      3     1     0   Forward           1.6
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:51:33,790 Fluidics INFO Protocol Summary
+13:51:33,792 Fluidics INFO Running:Valve*[A]*TBS+3
+13:51:33,793 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:51:33,794 Fluidics INFO Estimated Total Time: 11s
+13:51:33,799 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           1.6
+13:51:33,799 GUI INFO Waiting Until Protocol is Complete
+13:51:37,26 Fluidics INFO Available
+13:51:38,147 Fluidics INFO Available
+13:51:38,922 Fluidics INFO Available
+13:51:38,954 Fluidics INFO Available
+13:51:48,694 GUI INFO Checking Device Availability
+13:51:48,700 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+13:51:48,702 Fluidics INFO Command:Valve*[A]*TBS+3
+13:51:48,703 GUI INFO Checking if Device is Reponsive
+13:51:48,708 Fluidics INFO Command:Valve*[A]*TBS+3
+13:51:48,964 Fluidics INFO Command:Valve*[A]*TBS+3
+13:51:48,967 Fluidics INFO Running:Valve*[A]*TBS+3
+13:51:48,978 Protocol INFO Executing Protocol:
+13:51:48,983 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           1.6
+1  Waste      3     1     0   Forward           1.6
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           1.6
+4      A      3     1     0   Forward           1.6
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:51:48,984 Fluidics INFO Protocol Summary
+13:51:48,986 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:51:48,987 Fluidics INFO Estimated Total Time: 11s
+13:51:48,990 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           1.6
+13:51:49,11 Fluidics INFO Running:Valve*[A]*TBS+3
+13:51:49,13 GUI INFO Waiting Until Protocol is Complete
+13:51:50,110 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+13:51:52,24 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           1.6
+13:51:55,52 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+13:51:56,61 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           1.6
+13:51:59,95 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward           1.6
+13:52:02,133 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+13:52:03,142 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+13:52:03,145 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:52:03,165 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:52:03,168 GUI INFO Protocol is Complete
+13:52:08,161 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:53:15,677 GUI INFO Checking Device Availability
+13:53:15,681 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+13:53:15,684 Fluidics INFO Command:Valve*[A]*TBS+3
+13:53:15,685 GUI INFO Checking if Device is Reponsive
+13:53:15,689 Fluidics INFO Command:Valve*[A]*TBS+3
+13:53:18,297 Fluidics INFO Command:Valve*[A]*TBS+3
+13:53:18,299 Fluidics INFO Running:Valve*[A]*TBS+3
+13:53:18,308 Protocol INFO Executing Protocol:
+13:53:18,311 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           1.6
+1  Waste      3     1     0   Forward           1.6
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           1.6
+4      A      3     1     0   Forward           1.6
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:53:18,313 Fluidics INFO Protocol Summary
+13:53:18,314 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:53:18,315 Fluidics INFO Estimated Total Time: 11s
+13:53:18,319 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           1.6
+13:53:18,344 Fluidics INFO Running:Valve*[A]*TBS+3
+13:53:18,346 GUI INFO Waiting Until Protocol is Complete
+13:53:19,439 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+13:53:21,358 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           1.6
+13:53:24,387 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+13:53:25,398 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           1.6
+13:53:28,427 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward           1.6
+13:53:31,455 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+13:53:32,465 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+13:53:32,467 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:53:32,510 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:53:32,512 GUI INFO Protocol is Complete
+13:53:38,299 Fluidics INFO Available
+13:53:39,452 Fluidics INFO Available
+13:53:40,86 Fluidics INFO Available
+13:53:40,102 Fluidics INFO Available
+13:54:07,390 GUI INFO Checking Device Availability
+13:54:07,397 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+13:54:07,400 Fluidics INFO Command:Valve*[A]*TBS+3
+13:54:07,401 GUI INFO Checking if Device is Reponsive
+13:54:07,405 Fluidics INFO Command:Valve*[A]*TBS+3
+13:54:10,149 Fluidics INFO Command:Valve*[A]*TBS+3
+13:54:10,151 Fluidics INFO Running:Valve*[A]*TBS+3
+13:54:10,164 Protocol INFO Executing Protocol:
+13:54:10,167 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           6.7
+4      A      3     1     0   Forward           6.7
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:54:10,169 Fluidics INFO Protocol Summary
+13:54:10,170 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+13:54:10,172 Fluidics INFO Estimated Total Time: 31s
+13:54:10,175 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+13:54:10,180 Fluidics INFO Running:Valve*[A]*TBS+3
+13:54:10,182 GUI INFO Waiting Until Protocol is Complete
+13:54:11,282 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+13:54:20,856 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           6.7
+13:54:31,549 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+13:54:32,559 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           6.7
+13:54:43,236 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward           6.7
+13:54:53,921 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+13:54:54,929 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+13:54:54,932 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:54:54,942 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:54:54,944 GUI INFO Protocol is Complete
+13:54:59,944 Fluidics INFO Finished:Valve*[A]*TBS+3
+13:57:50,237 GUI INFO Checking Device Availability
+13:57:50,245 GUI INFO Communicating with Device:Command:Valve*[]*TBS+1!
+13:57:50,248 Fluidics INFO Command:Valve*[]*TBS+1!
+13:57:50,249 GUI INFO Checking if Device is Reponsive
+13:57:50,261 Fluidics INFO Command:Valve*[]*TBS+1!
+13:57:55,198 Fluidics INFO Command:Valve*[]*TBS+1!
+13:57:55,201 Fluidics INFO Running:Valve*[]*TBS+1!
+13:57:55,211 Protocol INFO Executing Protocol:
+13:57:55,215 Protocol INFO 
+    port volume speed pause direction time_estimate
+0             3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      1     1     0   Reverse           2.9
+4             1     1     0   Forward           2.9
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:57:55,216 Fluidics INFO Protocol Summary
+13:57:55,218 Fluidics INFO Port: TBS  Total Volume: 1.0mL
+13:57:55,219 Fluidics INFO Estimated Total Time: 24s
+13:57:55,269 Fluidics INFO Running:Valve*[]*TBS+1!
+13:57:55,272 GUI INFO Waiting Until Protocol is Complete
+13:57:56,221 Fluidics INFO Finished:Valve*[]*TBS+1!
+13:57:56,245 Fluidics INFO Finished:Valve*[]*TBS+1!
+13:57:56,248 GUI INFO Protocol is Complete
+13:58:01,227 Fluidics INFO Finished:Valve*[]*TBS+1!
+13:58:07,217 GUI INFO Checking Device Availability
+13:58:07,225 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+1!
+13:58:07,228 Fluidics INFO Command:Valve*[A]*TBS+1!
+13:58:07,229 GUI INFO Checking if Device is Reponsive
+13:58:07,241 Fluidics INFO Command:Valve*[A]*TBS+1!
+13:58:11,251 Fluidics INFO Command:Valve*[A]*TBS+1!
+13:58:11,254 Fluidics INFO Running:Valve*[A]*TBS+1!
+13:58:11,265 Protocol INFO Executing Protocol:
+13:58:11,268 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      1     1     0   Reverse           2.9
+4      A      1     1     0   Forward           2.9
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:58:11,269 Fluidics INFO Protocol Summary
+13:58:11,271 Fluidics INFO Port: TBS  Total Volume: 1.0mL
+13:58:11,272 Fluidics INFO Estimated Total Time: 24s
+13:58:11,275 Fluidics INFO Running:Valve*[A]*TBS+1!
+13:58:11,278 GUI INFO Waiting Until Protocol is Complete
+13:58:12,287 Fluidics INFO Finished:Valve*[A]*TBS+1!
+13:58:12,311 Fluidics INFO Finished:Valve*[A]*TBS+1!
+13:58:12,314 GUI INFO Protocol is Complete
+13:58:17,289 Fluidics INFO Finished:Valve*[A]*TBS+1!
+13:58:39,148 GUI INFO Checking Device Availability
+13:58:39,154 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+1!
+13:58:39,157 Fluidics INFO Command:Valve*[A]*TBS+1!
+13:58:39,158 GUI INFO Checking if Device is Reponsive
+13:58:39,162 Fluidics INFO Command:Valve*[A]*TBS+1!
+13:58:42,350 Fluidics INFO Command:Valve*[A]*TBS+1!
+13:58:42,353 Fluidics INFO Running:Valve*[A]*TBS+1!
+13:58:42,363 Protocol INFO Executing Protocol:
+13:58:42,366 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      1     1     0   Reverse           2.9
+4      A      1     1     0   Forward           2.9
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+13:58:42,368 Fluidics INFO Protocol Summary
+13:58:42,370 Fluidics INFO Port: TBS  Total Volume: 1.0mL
+13:58:42,371 Fluidics INFO Estimated Total Time: 24s
+13:58:42,413 Fluidics INFO Running:Valve*[A]*TBS+1!
+13:58:42,415 GUI INFO Waiting Until Protocol is Complete
+13:58:43,372 Fluidics INFO Finished:Valve*[A]*TBS+1!
+13:58:43,434 Fluidics INFO Finished:Valve*[A]*TBS+1!
+13:58:43,437 GUI INFO Protocol is Complete
+13:58:48,381 Fluidics INFO Finished:Valve*[A]*TBS+1!
+14:00:42,79 GUI INFO Checking Device Availability
+14:00:42,86 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+1
+14:00:42,89 Fluidics INFO Command:Valve*[A]*TBS+1
+14:00:42,90 GUI INFO Checking if Device is Reponsive
+14:00:42,103 Fluidics INFO Command:Valve*[A]*TBS+1
+14:00:43,583 Fluidics INFO Command:Valve*[A]*TBS+1
+14:01:06,38 Fluidics INFO Running:Valve*[A]*TBS+1
+14:01:06,52 Protocol INFO Executing Protocol:
+14:01:06,55 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      1     1     0   Reverse           2.9
+4      A      1     1     0   Forward           2.9
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:01:06,56 Fluidics INFO Protocol Summary
+14:01:06,58 Fluidics INFO Port: TBS  Total Volume: 1.0mL
+14:01:06,60 Fluidics INFO Estimated Total Time: 24s
+14:01:06,64 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+14:01:07,180 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+14:01:20,137 Fluidics INFO Available
+14:01:21,190 Fluidics INFO Available
+14:01:32,201 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           6.7
+14:03:08,902 Fluidics INFO Available
+14:03:09,944 Fluidics INFO Available
+14:03:29,92 GUI INFO Checking Device Availability
+14:03:29,100 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:03:29,102 Fluidics INFO Command:Valve*[A]*TBS+3
+14:03:29,103 GUI INFO Checking if Device is Reponsive
+14:03:29,108 Fluidics INFO Command:Valve*[A]*TBS+3
+14:03:42,899 Fluidics INFO Available
+14:03:44,31 Fluidics INFO Available
+14:03:48,144 Fluidics INFO Available
+14:03:48,178 Fluidics INFO Available
+14:03:57,555 GUI INFO Checking Device Availability
+14:03:57,560 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:03:57,563 Fluidics INFO Command:Valve*[A]*TBS+3
+14:03:57,564 GUI INFO Checking if Device is Reponsive
+14:03:57,569 Fluidics INFO Command:Valve*[A]*TBS+3
+14:03:58,202 Fluidics INFO Command:Valve*[A]*TBS+3
+14:03:58,203 Fluidics INFO Running:Valve*[A]*TBS+3
+14:03:58,215 Protocol INFO Executing Protocol:
+14:03:58,219 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           6.7
+1  Waste      3     1     0   Forward           6.7
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           6.7
+4      A      3     1     0   Forward           6.7
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:03:58,220 Fluidics INFO Protocol Summary
+14:03:58,222 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:03:58,223 Fluidics INFO Estimated Total Time: 31s
+14:03:58,227 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           6.7
+14:03:58,234 Fluidics INFO Running:Valve*[A]*TBS+3
+14:03:58,236 GUI INFO Waiting Until Protocol is Complete
+14:04:23,285 Fluidics INFO Available
+14:04:24,415 Fluidics INFO Available
+14:04:25,784 Fluidics INFO Available
+14:04:25,817 Fluidics INFO Available
+14:05:42,364 GUI INFO Checking Device Availability
+14:05:42,369 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:05:42,372 Fluidics INFO Command:Valve*[A]*TBS+3
+14:05:42,373 GUI INFO Checking if Device is Reponsive
+14:05:42,385 Fluidics INFO Command:Valve*[A]*TBS+3
+14:05:45,940 Fluidics INFO Command:Valve*[A]*TBS+3
+14:05:45,943 Fluidics INFO Running:Valve*[A]*TBS+3
+14:05:45,954 Protocol INFO Executing Protocol:
+14:05:45,958 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse           1.6
+1  Waste      3     1     0   Forward           1.6
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           1.6
+4      A      3     1     0   Forward           1.6
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:05:45,959 Fluidics INFO Protocol Summary
+14:05:45,960 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:05:45,962 Fluidics INFO Estimated Total Time: 11s
+14:05:45,965 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse           1.6
+14:05:46,8 Fluidics INFO Running:Valve*[A]*TBS+3
+14:05:46,11 GUI INFO Waiting Until Protocol is Complete
+14:05:47,82 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+14:05:49,5 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           1.6
+14:05:52,40 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:05:53,55 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           1.6
+14:05:56,89 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward           1.6
+14:05:59,122 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:06:00,133 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:06:00,135 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:06:00,152 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:06:00,154 GUI INFO Protocol is Complete
+14:06:05,148 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:06:14,710 Fluidics INFO Available
+14:06:15,836 Fluidics INFO Available
+14:06:16,527 Fluidics INFO Available
+14:06:16,544 Fluidics INFO Available
+14:07:13,864 GUI INFO Checking Device Availability
+14:07:13,869 GUI INFO Communicating with Device:Command:Valve*[]*TBS+3
+14:07:13,871 Fluidics INFO Command:Valve*[]*TBS+3
+14:07:13,872 GUI INFO Checking if Device is Reponsive
+14:07:13,886 Fluidics INFO Command:Valve*[]*TBS+3
+14:07:16,648 Fluidics INFO Command:Valve*[]*TBS+3
+14:07:16,650 Fluidics INFO Running:Valve*[]*TBS+3
+14:07:16,663 Protocol INFO Executing Protocol:
+14:07:16,667 Protocol INFO 
+    port volume speed pause direction time_estimate
+0             3     1     0   Reverse           2.8
+1  Waste      3     1     0   Forward           2.8
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse           2.8
+4             3     1     0   Forward           2.8
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:07:16,668 Fluidics INFO Protocol Summary
+14:07:16,670 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:07:16,671 Fluidics INFO Estimated Total Time: 16s
+14:07:16,674 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0           3     1     0   Reverse           2.8
+14:07:16,675 Fluidics INFO           Unknown Tube: 
+14:07:16,716 Fluidics INFO Running:Valve*[]*TBS+3
+14:07:16,719 GUI INFO Waiting Until Protocol is Complete
+14:07:20,401 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward           2.8
+14:07:25,231 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:07:26,237 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse           2.8
+14:07:31,70 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4           3     1     0   Forward           2.8
+14:07:31,72 Fluidics INFO           Unknown Tube: 
+14:07:34,784 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:07:35,792 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:07:35,793 Fluidics INFO Finished:Valve*[]*TBS+3
+14:07:35,812 Fluidics INFO Finished:Valve*[]*TBS+3
+14:07:35,814 GUI INFO Protocol is Complete
+14:07:40,807 Fluidics INFO Finished:Valve*[]*TBS+3
+14:13:45,752 Fluidics INFO Available
+14:13:46,889 Fluidics INFO Available
+14:13:47,581 Fluidics INFO Available
+14:13:52,978 Fluidics INFO Available
+14:14:44,679 GUI INFO Checking Device Availability
+14:14:44,687 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:14:44,689 Fluidics INFO Command:Valve*[A]*TBS+3
+14:14:44,691 GUI INFO Checking if Device is Reponsive
+14:14:44,695 Fluidics INFO Command:Valve*[A]*TBS+3
+14:14:48,70 Fluidics INFO Command:Valve*[A]*TBS+3
+14:14:48,73 Fluidics INFO Running:Valve*[A]*TBS+3
+14:14:48,85 Protocol INFO Executing Protocol:
+14:14:48,89 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse          3.49
+1  Waste      3     1     0   Forward          3.49
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse          3.49
+4      A      3     1     0   Forward          3.49
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:14:48,90 Fluidics INFO Protocol Summary
+14:14:48,92 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:14:48,94 Fluidics INFO Estimated Total Time: 18s
+14:14:48,97 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse          3.49
+14:14:48,133 Fluidics INFO Running:Valve*[A]*TBS+3
+14:14:48,135 GUI INFO Waiting Until Protocol is Complete
+14:15:52,140 Fluidics INFO Available
+14:15:53,277 Fluidics INFO Available
+14:16:13,836 Fluidics INFO Available
+14:16:19,839 Fluidics INFO Available
+14:17:15,657 Fluidics INFO Available
+14:17:15,674 Fluidics INFO Available
+14:17:30,982 GUI INFO Checking Device Availability
+14:17:30,986 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:17:30,989 Fluidics INFO Command:Valve*[A]*TBS+3
+14:17:30,990 GUI INFO Checking if Device is Reponsive
+14:17:31,2 Fluidics INFO Command:Valve*[A]*TBS+3
+14:17:35,708 Fluidics INFO Command:Valve*[A]*TBS+3
+14:17:35,709 Fluidics INFO Running:Valve*[A]*TBS+3
+14:17:35,721 Protocol INFO Executing Protocol:
+14:17:35,725 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse          3.49
+1  Waste      3     1     0   Forward          3.49
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse          3.49
+4      A      3     1     0   Forward          3.49
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:17:35,725 Fluidics INFO Protocol Summary
+14:17:35,727 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:17:35,728 Fluidics INFO Estimated Total Time: 18s
+14:17:35,731 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse          3.49
+14:17:35,755 Fluidics INFO Running:Valve*[A]*TBS+3
+14:17:35,757 GUI INFO Waiting Until Protocol is Complete
+14:17:41,608 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward          3.49
+14:17:47,477 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:17:48,485 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse          3.49
+14:17:54,344 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward          3.49
+14:18:00,209 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:18:01,220 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:18:01,221 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:18:01,277 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:18:01,278 GUI INFO Protocol is Complete
+14:18:06,228 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:20:00,955 Fluidics INFO Available
+14:20:02,73 Fluidics INFO Available
+14:20:03,581 Fluidics INFO Available
+14:20:03,597 Fluidics INFO Available
+14:20:18,543 GUI INFO Checking Device Availability
+14:20:18,548 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:20:18,550 Fluidics INFO Command:Valve*[A]*TBS+3
+14:20:18,551 GUI INFO Checking if Device is Reponsive
+14:20:18,556 Fluidics INFO Command:Valve*[A]*TBS+3
+14:20:18,618 Fluidics INFO Command:Valve*[A]*TBS+3
+14:20:18,621 Fluidics INFO Running:Valve*[A]*TBS+3
+14:20:18,636 Protocol INFO Executing Protocol:
+14:20:18,639 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse          3.13
+1  Waste      3     1     0   Forward          3.13
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse          3.13
+4      A      3     1     0   Forward          3.13
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:20:18,641 Fluidics INFO Protocol Summary
+14:20:18,642 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:20:18,643 Fluidics INFO Estimated Total Time: 17s
+14:20:18,647 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse          3.13
+14:20:18,680 Fluidics INFO Running:Valve*[A]*TBS+3
+14:20:18,681 GUI INFO Waiting Until Protocol is Complete
+14:20:19,764 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+14:20:23,986 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward          3.13
+14:20:29,317 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:20:30,326 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse          3.13
+14:20:35,647 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward          3.13
+14:20:40,979 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:20:41,986 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:20:41,987 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:20:42,44 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:20:42,46 GUI INFO Protocol is Complete
+14:20:46,993 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:21:32,206 GUI INFO Checking Device Availability
+14:21:32,211 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:21:32,213 Fluidics INFO Command:Valve*[A]*TBS+3
+14:21:32,214 GUI INFO Checking if Device is Reponsive
+14:21:32,218 Fluidics INFO Command:Valve*[A]*TBS+3
+14:21:37,91 Fluidics INFO Command:Valve*[A]*TBS+3
+14:21:37,94 Fluidics INFO Running:Valve*[A]*TBS+3
+14:21:37,103 Protocol INFO Executing Protocol:
+14:21:37,106 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse          3.13
+1  Waste      3     1     0   Forward          3.13
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse          3.13
+4      A      3     1     0   Forward          3.13
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:21:37,108 Fluidics INFO Protocol Summary
+14:21:37,110 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:21:37,111 Fluidics INFO Estimated Total Time: 17s
+14:21:37,114 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse          3.13
+14:21:37,152 Fluidics INFO Running:Valve*[A]*TBS+3
+14:21:37,154 GUI INFO Waiting Until Protocol is Complete
+14:21:38,233 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+14:21:42,453 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward          3.13
+14:21:47,777 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:21:48,789 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse          3.13
+14:21:54,117 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3     1     0   Forward          3.13
+14:21:59,444 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:22:00,464 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:22:00,467 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:22:00,507 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:22:00,510 GUI INFO Protocol is Complete
+14:22:05,470 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:22:51,484 Fluidics INFO Available
+14:22:52,536 Fluidics INFO Available
+14:22:53,309 Fluidics INFO Available
+14:22:53,326 Fluidics INFO Available
+14:23:01,841 GUI INFO Checking Device Availability
+14:23:01,849 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:23:01,852 Fluidics INFO Command:Valve*[A]*TBS+3
+14:23:01,853 GUI INFO Checking if Device is Reponsive
+14:23:01,858 Fluidics INFO Command:Valve*[A]*TBS+3
+14:23:03,343 Fluidics INFO Command:Valve*[A]*TBS+3
+14:23:03,346 Fluidics INFO Running:Valve*[A]*TBS+3
+14:23:03,358 Protocol INFO Executing Protocol:
+14:23:03,361 Fluidics INFO Running:Valve*[A]*TBS+3
+14:23:03,361 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse          3.13
+1  Waste      3     1     0   Forward          3.13
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse          3.13
+4      A      3   0.5     0   Forward          5.26
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:23:03,363 Fluidics INFO Protocol Summary
+14:23:03,365 GUI INFO Waiting Until Protocol is Complete
+14:23:03,365 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:23:03,367 Fluidics INFO Estimated Total Time: 19s
+14:23:03,370 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse          3.13
+14:23:04,476 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+14:23:08,688 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward          3.13
+14:23:14,22 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:23:15,30 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse          3.13
+14:23:20,360 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3   0.5     0   Forward          5.26
+14:23:27,821 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:23:28,829 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:23:28,830 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:23:28,872 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:23:28,875 GUI INFO Protocol is Complete
+14:23:33,834 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:24:28,383 Fluidics INFO Available
+14:24:29,511 Fluidics INFO Available
+14:24:29,950 Fluidics INFO Available
+14:24:29,966 Fluidics INFO Available
+14:24:38,432 GUI INFO Checking Device Availability
+14:24:38,437 GUI INFO Communicating with Device:Command:Valve*[A]*TBS+3
+14:24:38,439 Fluidics INFO Command:Valve*[A]*TBS+3
+14:24:38,440 GUI INFO Checking if Device is Reponsive
+14:24:38,444 Fluidics INFO Command:Valve*[A]*TBS+3
+14:24:39,982 Fluidics INFO Command:Valve*[A]*TBS+3
+14:24:39,985 Fluidics INFO Running:Valve*[A]*TBS+3
+14:24:39,997 Protocol INFO Executing Protocol:
+14:24:40,1 Protocol INFO 
+    port volume speed pause direction time_estimate
+0      A      3     1     0   Reverse          3.13
+1  Waste      3     1     0   Forward          3.13
+2             0     1     1      Wait             2
+3    TBS      3     1     0   Reverse          3.13
+4      A      3   0.1     0   Forward          22.3
+5             0     1     1      Wait             2
+6             0     1     0      Wait             1
+14:24:40,3 Fluidics INFO Protocol Summary
+14:24:40,4 Fluidics INFO Port: TBS  Total Volume: 3.0mL
+14:24:40,5 Fluidics INFO Estimated Total Time: 36s
+14:24:40,8 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0    A      3     1     0   Reverse          3.13
+14:24:40,14 Fluidics INFO Running:Valve*[A]*TBS+3
+14:24:40,16 GUI INFO Waiting Until Protocol is Complete
+14:24:41,122 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO7 = Bad command'")
+14:24:45,339 Fluidics INFO 
+    port volume speed pause direction time_estimate
+1  Waste      3     1     0   Forward          3.13
+14:24:50,657 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2           0     1     1      Wait             2
+14:24:51,664 Fluidics INFO 
+  port volume speed pause direction time_estimate
+3  TBS      3     1     0   Reverse          3.13
+14:24:56,987 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4    A      3   0.1     0   Forward          22.3
+14:25:21,481 Fluidics INFO 
+  port volume speed pause direction time_estimate
+5           0     1     1      Wait             2
+14:25:22,487 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6           0     1     0      Wait             1
+14:25:22,490 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:25:22,531 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:25:22,533 GUI INFO Protocol is Complete
+14:25:27,499 Fluidics INFO Finished:Valve*[A]*TBS+3
+14:29:10,956 Fluidics INFO Available
+14:29:12,7 Fluidics INFO Available
+14:29:14,743 Fluidics INFO Available
+14:29:14,775 Fluidics INFO Available
+14:29:56,501 GUI INFO Checking Device Availability
+14:29:56,506 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3!
+14:29:56,508 Fluidics INFO Command:ReverseFlush*[]*TBS+3!
+14:29:56,509 GUI INFO Checking if Device is Reponsive
+14:29:56,523 Fluidics INFO Command:ReverseFlush*[]*TBS+3!
+14:29:59,858 Fluidics INFO Command:ReverseFlush*[]*TBS+3!
+14:29:59,859 Fluidics INFO Running:ReverseFlush*[]*TBS+3!
+14:29:59,896 Fluidics INFO Running:ReverseFlush*[]*TBS+3!
+14:29:59,898 GUI INFO Waiting Until Protocol is Complete
+14:29:59,912 Protocol INFO Executing Protocol:
+14:29:59,917 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+14:29:59,919 Fluidics INFO Protocol Summary
+14:29:59,920 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+14:29:59,932 Fluidics INFO Estimated Total Time: 3m7s
+14:30:00,940 Fluidics INFO Finished:ReverseFlush*[]*TBS+3!
+14:30:00,993 Fluidics INFO Finished:ReverseFlush*[]*TBS+3!
+14:30:00,995 GUI INFO Protocol is Complete
+14:30:05,952 Fluidics INFO Finished:ReverseFlush*[]*TBS+3!
+14:33:05,750 GUI INFO Checking Device Availability
+14:33:05,766 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+14:33:05,772 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:33:05,773 GUI INFO Checking if Device is Reponsive
+14:33:05,784 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:33:06,243 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:33:35,696 GUI INFO Checking Device Availability
+14:33:51,648 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:33:51,701 Protocol INFO Executing Protocol:
+14:33:51,706 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+14:33:51,709 Fluidics INFO Protocol Summary
+14:33:51,710 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+14:33:51,724 Fluidics INFO Estimated Total Time: 3m7s
+14:33:51,727 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+14:34:04,486 Fluidics INFO Available
+14:34:05,605 Fluidics INFO Available
+14:34:06,792 Fluidics INFO Available
+14:34:06,824 Fluidics INFO Available
+14:34:19,302 GUI INFO Checking Device Availability
+14:34:19,307 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+14:34:19,310 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:34:19,310 GUI INFO Checking if Device is Reponsive
+14:34:19,316 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:34:21,858 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:34:21,860 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:34:21,913 Protocol INFO Executing Protocol:
+14:34:21,914 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:34:21,916 GUI INFO Waiting Until Protocol is Complete
+14:34:21,918 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+14:34:21,920 Fluidics INFO Protocol Summary
+14:34:21,921 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+14:34:21,934 Fluidics INFO Estimated Total Time: 3m7s
+14:34:21,937 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+14:34:47,374 Fluidics INFO Available
+14:34:48,414 Fluidics INFO Available
+14:34:49,688 Fluidics INFO Available
+14:34:49,705 Fluidics INFO Available
+14:35:04,6 GUI INFO Checking Device Availability
+14:35:04,11 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+14:35:04,13 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:35:04,14 GUI INFO Checking if Device is Reponsive
+14:35:04,18 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:35:04,730 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:35:04,733 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:35:04,748 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:35:04,750 GUI INFO Waiting Until Protocol is Complete
+14:35:04,786 Protocol INFO Executing Protocol:
+14:35:04,791 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+14:35:04,793 Fluidics INFO Protocol Summary
+14:35:04,794 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+14:35:04,807 Fluidics INFO Estimated Total Time: 3m7s
+14:35:04,812 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+14:35:05,932 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+14:35:10,149 Fluidics INFO 
+   port volume speed pause direction time_estimate
+1  V1P1      3     1     0   Forward          3.13
+14:35:15,471 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2  TBS      3     1     0   Reverse          3.13
+14:35:20,791 Fluidics INFO 
+   port volume speed pause direction time_estimate
+3  V1P2      3     1     0   Forward          3.13
+14:35:26,111 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4  TBS      3     1     0   Reverse          3.13
+14:35:31,436 Fluidics INFO 
+     port volume speed pause direction time_estimate
+5  Valve2      3     1     0   Forward          3.13
+14:35:36,774 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6  TBS      3     1     0   Reverse          3.13
+14:35:42,101 Fluidics INFO 
+   port volume speed pause direction time_estimate
+7  V1P4      3     1     0   Forward          3.13
+14:35:47,431 Fluidics INFO 
+  port volume speed pause direction time_estimate
+8  TBS      3     1     0   Reverse          3.13
+14:35:52,758 Fluidics INFO 
+   port volume speed pause direction time_estimate
+9  V1P5      3     1     0   Forward          3.13
+14:35:58,86 Fluidics INFO 
+   port volume speed pause direction time_estimate
+10  TBS      3     1     0   Reverse          3.13
+14:36:03,418 Fluidics INFO 
+    port volume speed pause direction time_estimate
+11  V1P6      3     1     0   Forward          3.13
+14:36:08,744 Fluidics INFO 
+   port volume speed pause direction time_estimate
+12  TBS      3     1     0   Reverse          3.13
+14:36:14,81 Fluidics INFO 
+   port volume speed pause direction time_estimate
+13    A      3     1     0   Forward          3.13
+14:36:19,419 Fluidics INFO 
+   port volume speed pause direction time_estimate
+14  TBS      3     1     0   Reverse          3.13
+14:36:24,752 Fluidics INFO 
+   port volume speed pause direction time_estimate
+15  TBS      3     1     0   Forward          3.13
+14:36:25,862 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+14:36:30,81 Fluidics INFO 
+   port volume speed pause direction time_estimate
+16  TBS      3     1     0   Reverse          3.13
+14:36:31,191 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+14:36:35,401 Fluidics INFO 
+       port volume speed pause direction time_estimate
+17  WBuffer      3     1     0   Forward          3.13
+14:36:40,743 Fluidics INFO 
+   port volume speed pause direction time_estimate
+18  TBS      3     1     0   Reverse          3.13
+14:36:46,71 Fluidics INFO 
+     port volume speed pause direction time_estimate
+19  Waste      3     1     0   Forward          3.13
+14:36:51,398 Fluidics INFO 
+   port volume speed pause direction time_estimate
+20  TBS      3     1     0   Reverse          3.13
+14:36:56,722 Fluidics INFO 
+    port volume speed pause direction time_estimate
+21  V2P1      3     1     0   Forward          3.13
+14:37:03,156 Fluidics INFO 
+   port volume speed pause direction time_estimate
+22  TBS      3     1     0   Reverse          3.13
+14:37:08,485 Fluidics INFO 
+    port volume speed pause direction time_estimate
+23  V2P2      3     1     0   Forward          3.13
+14:37:14,938 Fluidics INFO 
+   port volume speed pause direction time_estimate
+24  TBS      3     1     0   Reverse          3.13
+14:37:20,262 Fluidics INFO 
+      port volume speed pause direction time_estimate
+25  Valve3      3     1     0   Forward          3.13
+14:37:26,706 Fluidics INFO 
+   port volume speed pause direction time_estimate
+26  TBS      3     1     0   Reverse          3.13
+14:37:32,36 Fluidics INFO 
+    port volume speed pause direction time_estimate
+27  V2P4      3     1     0   Forward          3.13
+14:37:38,480 Fluidics INFO 
+   port volume speed pause direction time_estimate
+28  TBS      3     1     0   Reverse          3.13
+14:37:43,811 Fluidics INFO 
+    port volume speed pause direction time_estimate
+29  V2P5      3     1     0   Forward          3.13
+14:37:50,243 Fluidics INFO 
+   port volume speed pause direction time_estimate
+30  TBS      3     1     0   Reverse          3.13
+14:37:55,567 Fluidics INFO 
+    port volume speed pause direction time_estimate
+31  V2P6      3     1     0   Forward          3.13
+14:38:33,594 Fluidics INFO Available
+14:38:33,610 Fluidics INFO Available
+14:38:33,616 Fluidics INFO Available
+14:39:03,78 Fluidics INFO Available
+14:39:04,128 Fluidics INFO Available
+14:39:14,116 GUI INFO Checking Device Availability
+14:39:14,122 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+14:39:14,124 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:39:14,125 GUI INFO Checking if Device is Reponsive
+14:39:14,129 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:39:18,692 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:39:18,693 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:39:18,709 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:39:18,712 GUI INFO Waiting Until Protocol is Complete
+14:39:18,751 Protocol INFO Executing Protocol:
+14:39:18,756 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+14:39:18,757 Fluidics INFO Protocol Summary
+14:39:18,759 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+14:39:18,771 Fluidics INFO Estimated Total Time: 3m7s
+14:39:18,774 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+14:39:19,882 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+14:58:47,986 Fluidics INFO Available
+14:58:49,43 Fluidics INFO Available
+14:58:49,733 Fluidics INFO Available
+14:58:49,765 Fluidics INFO Available
+14:59:00,970 GUI INFO Checking Device Availability
+14:59:00,975 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+14:59:00,978 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:59:00,979 GUI INFO Checking if Device is Reponsive
+14:59:00,983 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:59:04,793 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+14:59:04,797 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:59:04,840 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+14:59:04,842 GUI INFO Waiting Until Protocol is Complete
+14:59:04,850 Protocol INFO Executing Protocol:
+14:59:04,855 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+14:59:04,857 Fluidics INFO Protocol Summary
+14:59:04,860 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+14:59:04,872 Fluidics INFO Estimated Total Time: 3m7s
+14:59:04,876 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+14:59:05,982 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+14:59:10,196 Fluidics INFO 
+   port volume speed pause direction time_estimate
+1  V1P1      3     1     0   Forward          3.13
+14:59:15,526 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2  TBS      3     1     0   Reverse          3.13
+14:59:20,846 Fluidics INFO 
+   port volume speed pause direction time_estimate
+3  V1P2      3     1     0   Forward          3.13
+15:04:21,811 Fluidics INFO Available
+15:04:22,932 Fluidics INFO Available
+15:04:23,352 Fluidics INFO Available
+15:04:28,740 Fluidics INFO Available
+15:04:35,559 GUI INFO Checking Device Availability
+15:04:35,564 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+15:04:35,568 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:04:35,569 GUI INFO Checking if Device is Reponsive
+15:04:35,573 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:04:38,752 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:04:38,754 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:04:38,768 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:04:38,771 GUI INFO Waiting Until Protocol is Complete
+15:04:38,809 Protocol INFO Executing Protocol:
+15:04:38,814 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+15:04:38,815 Fluidics INFO Protocol Summary
+15:04:38,817 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+15:04:38,829 Fluidics INFO Estimated Total Time: 3m7s
+15:04:38,833 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+15:18:18,717 Fluidics INFO Available
+15:18:19,847 Fluidics INFO Available
+15:18:43,559 Fluidics INFO Available
+15:18:48,949 Fluidics INFO Available
+15:18:53,229 GUI INFO Checking Device Availability
+15:18:53,229 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+15:18:53,229 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:18:53,229 GUI INFO Checking if Device is Reponsive
+15:18:53,238 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:18:53,958 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:18:53,958 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:18:53,978 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:18:53,978 GUI INFO Waiting Until Protocol is Complete
+15:18:54,8 Protocol INFO Executing Protocol:
+15:18:54,18 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3     1     0   Reverse          3.13
+1      V1P1      3     1     0   Forward          3.13
+2       TBS      3     1     0   Reverse          3.13
+3      V1P2      3     1     0   Forward          3.13
+4       TBS      3     1     0   Reverse          3.13
+5    Valve2      3     1     0   Forward          3.13
+6       TBS      3     1     0   Reverse          3.13
+7      V1P4      3     1     0   Forward          3.13
+8       TBS      3     1     0   Reverse          3.13
+9      V1P5      3     1     0   Forward          3.13
+10      TBS      3     1     0   Reverse          3.13
+11     V1P6      3     1     0   Forward          3.13
+12      TBS      3     1     0   Reverse          3.13
+13        A      3     1     0   Forward          3.13
+14      TBS      3     1     0   Reverse          3.13
+15      TBS      3     1     0   Forward          3.13
+16      TBS      3     1     0   Reverse          3.13
+17  WBuffer      3     1     0   Forward          3.13
+18      TBS      3     1     0   Reverse          3.13
+19    Waste      3     1     0   Forward          3.13
+20      TBS      3     1     0   Reverse          3.13
+21     V2P1      3     1     0   Forward          3.13
+22      TBS      3     1     0   Reverse          3.13
+23     V2P2      3     1     0   Forward          3.13
+24      TBS      3     1     0   Reverse          3.13
+25   Valve3      3     1     0   Forward          3.13
+26      TBS      3     1     0   Reverse          3.13
+27     V2P4      3     1     0   Forward          3.13
+28      TBS      3     1     0   Reverse          3.13
+29     V2P5      3     1     0   Forward          3.13
+30      TBS      3     1     0   Reverse          3.13
+31     V2P6      3     1     0   Forward          3.13
+32      TBS      3     1     0   Reverse          3.13
+33     V2P7      3     1     0   Forward          3.13
+34      TBS      3     1     0   Reverse          3.13
+35     V2P8      3     1     0   Forward          3.13
+36      TBS      3     1     0   Reverse          3.13
+37     V2P9      3     1     0   Forward          3.13
+38      TBS      3     1     0   Reverse          3.13
+39    V2P10      3     1     0   Forward          3.13
+40      TBS      3     1     0   Reverse          3.13
+41     V3P1      3     1     0   Forward          3.13
+42      TBS      3     1     0   Reverse          3.13
+43     V3P2      3     1     0   Forward          3.13
+44      TBS      3     1     0   Reverse          3.13
+45     V3P3      3     1     0   Forward          3.13
+46      TBS      3     1     0   Reverse          3.13
+47     V3P4      3     1     0   Forward          3.13
+48      TBS      3     1     0   Reverse          3.13
+49     V3P5      3     1     0   Forward          3.13
+50      TBS      3     1     0   Reverse          3.13
+51     V3P6      3     1     0   Forward          3.13
+52      TBS      3     1     0   Reverse          3.13
+53     V3P7      3     1     0   Forward          3.13
+54      TBS      3     1     0   Reverse          3.13
+55     V3P8      3     1     0   Forward          3.13
+56      TBS      3     1     0   Reverse          3.13
+57     V3P9      3     1     0   Forward          3.13
+58      TBS      3     1     0   Reverse          3.13
+59    V3P10      3     1     0   Forward          3.13
+15:18:54,18 Fluidics INFO Protocol Summary
+15:18:54,28 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+15:18:54,38 Fluidics INFO Estimated Total Time: 3m7s
+15:18:54,38 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3     1     0   Reverse          3.13
+15:27:45,607 Fluidics INFO Available
+15:27:45,627 Fluidics INFO Available
+15:27:52,526 Fluidics INFO Available
+15:27:53,657 Fluidics INFO Available
+15:28:01,968 GUI INFO Checking Device Availability
+15:28:01,968 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+15:28:01,968 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:28:01,968 GUI INFO Checking if Device is Reponsive
+15:28:01,988 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:28:05,668 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:28:05,668 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:28:05,698 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:28:05,698 GUI INFO Waiting Until Protocol is Complete
+15:28:05,728 Protocol INFO Executing Protocol:
+15:28:05,728 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3   0.1     0   Reverse          22.3
+1      V1P1      3   0.1     0   Forward          22.3
+2       TBS      3   0.1     0   Reverse          22.3
+3      V1P2      3   0.1     0   Forward          22.3
+4       TBS      3   0.1     0   Reverse          22.3
+5    Valve2      3   0.1     0   Forward          22.3
+6       TBS      3   0.1     0   Reverse          22.3
+7      V1P4      3   0.1     0   Forward          22.3
+8       TBS      3   0.1     0   Reverse          22.3
+9      V1P5      3   0.1     0   Forward          22.3
+10      TBS      3   0.1     0   Reverse          22.3
+11     V1P6      3   0.1     0   Forward          22.3
+12      TBS      3   0.1     0   Reverse          22.3
+13        A      3   0.1     0   Forward          22.3
+14      TBS      3   0.1     0   Reverse          22.3
+15      TBS      3   0.1     0   Forward          22.3
+16      TBS      3   0.1     0   Reverse          22.3
+17  WBuffer      3   0.1     0   Forward          22.3
+18      TBS      3   0.1     0   Reverse          22.3
+19    Waste      3   0.1     0   Forward          22.3
+20      TBS      3   0.1     0   Reverse          22.3
+21     V2P1      3   0.1     0   Forward          22.3
+22      TBS      3   0.1     0   Reverse          22.3
+23     V2P2      3   0.1     0   Forward          22.3
+24      TBS      3   0.1     0   Reverse          22.3
+25   Valve3      3   0.1     0   Forward          22.3
+26      TBS      3   0.1     0   Reverse          22.3
+27     V2P4      3   0.1     0   Forward          22.3
+28      TBS      3   0.1     0   Reverse          22.3
+29     V2P5      3   0.1     0   Forward          22.3
+30      TBS      3   0.1     0   Reverse          22.3
+31     V2P6      3   0.1     0   Forward          22.3
+32      TBS      3   0.1     0   Reverse          22.3
+33     V2P7      3   0.1     0   Forward          22.3
+34      TBS      3   0.1     0   Reverse          22.3
+35     V2P8      3   0.1     0   Forward          22.3
+36      TBS      3   0.1     0   Reverse          22.3
+37     V2P9      3   0.1     0   Forward          22.3
+38      TBS      3   0.1     0   Reverse          22.3
+39    V2P10      3   0.1     0   Forward          22.3
+40      TBS      3   0.1     0   Reverse          22.3
+41     V3P1      3   0.1     0   Forward          22.3
+42      TBS      3   0.1     0   Reverse          22.3
+43     V3P2      3   0.1     0   Forward          22.3
+44      TBS      3   0.1     0   Reverse          22.3
+45     V3P3      3   0.1     0   Forward          22.3
+46      TBS      3   0.1     0   Reverse          22.3
+47     V3P4      3   0.1     0   Forward          22.3
+48      TBS      3   0.1     0   Reverse          22.3
+49     V3P5      3   0.1     0   Forward          22.3
+50      TBS      3   0.1     0   Reverse          22.3
+51     V3P6      3   0.1     0   Forward          22.3
+52      TBS      3   0.1     0   Reverse          22.3
+53     V3P7      3   0.1     0   Forward          22.3
+54      TBS      3   0.1     0   Reverse          22.3
+55     V3P8      3   0.1     0   Forward          22.3
+56      TBS      3   0.1     0   Reverse          22.3
+57     V3P9      3   0.1     0   Forward          22.3
+58      TBS      3   0.1     0   Reverse          22.3
+59    V3P10      3   0.1     0   Forward          22.3
+15:28:05,738 Fluidics INFO Protocol Summary
+15:28:05,738 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+15:28:05,748 Fluidics INFO Estimated Total Time: 22m17s
+15:28:05,748 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3   0.1     0   Reverse          22.3
+15:28:30,254 Fluidics INFO 
+   port volume speed pause direction time_estimate
+1  V1P1      3   0.1     0   Forward          22.3
+15:28:54,745 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2  TBS      3   0.1     0   Reverse          22.3
+15:31:58,347 Fluidics INFO Available
+15:31:59,470 Fluidics INFO Available
+15:32:00,771 Fluidics INFO Available
+15:32:00,811 Fluidics INFO Available
+15:32:09,595 GUI INFO Checking Device Availability
+15:32:09,595 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+15:32:09,595 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:32:09,595 GUI INFO Checking if Device is Reponsive
+15:32:09,605 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:32:10,823 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:32:10,823 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:32:10,873 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:32:10,873 GUI INFO Waiting Until Protocol is Complete
+15:32:10,873 Protocol INFO Executing Protocol:
+15:32:10,883 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3   0.1     0   Reverse          22.3
+1      V1P1      3   0.1     0   Forward          22.3
+2       TBS      3   0.1     0   Reverse          22.3
+3      V1P2      3   0.1     0   Forward          22.3
+4       TBS      3   0.1     0   Reverse          22.3
+5    Valve2      3   0.1     0   Forward          22.3
+6       TBS      3   0.1     0   Reverse          22.3
+7      V1P4      3   0.1     0   Forward          22.3
+8       TBS      3   0.1     0   Reverse          22.3
+9      V1P5      3   0.1     0   Forward          22.3
+10      TBS      3   0.1     0   Reverse          22.3
+11     V1P6      3   0.1     0   Forward          22.3
+12      TBS      3   0.1     0   Reverse          22.3
+13        A      3   0.1     0   Forward          22.3
+14      TBS      3   0.1     0   Reverse          22.3
+15      TBS      3   0.1     0   Forward          22.3
+16      TBS      3   0.1     0   Reverse          22.3
+17  WBuffer      3   0.1     0   Forward          22.3
+18      TBS      3   0.1     0   Reverse          22.3
+19    Waste      3   0.1     0   Forward          22.3
+20      TBS      3   0.1     0   Reverse          22.3
+21     V2P1      3   0.1     0   Forward          22.3
+22      TBS      3   0.1     0   Reverse          22.3
+23     V2P2      3   0.1     0   Forward          22.3
+24      TBS      3   0.1     0   Reverse          22.3
+25   Valve3      3   0.1     0   Forward          22.3
+26      TBS      3   0.1     0   Reverse          22.3
+27     V2P4      3   0.1     0   Forward          22.3
+28      TBS      3   0.1     0   Reverse          22.3
+29     V2P5      3   0.1     0   Forward          22.3
+30      TBS      3   0.1     0   Reverse          22.3
+31     V2P6      3   0.1     0   Forward          22.3
+32      TBS      3   0.1     0   Reverse          22.3
+33     V2P7      3   0.1     0   Forward          22.3
+34      TBS      3   0.1     0   Reverse          22.3
+35     V2P8      3   0.1     0   Forward          22.3
+36      TBS      3   0.1     0   Reverse          22.3
+37     V2P9      3   0.1     0   Forward          22.3
+38      TBS      3   0.1     0   Reverse          22.3
+39    V2P10      3   0.1     0   Forward          22.3
+40      TBS      3   0.1     0   Reverse          22.3
+41     V3P1      3   0.1     0   Forward          22.3
+42      TBS      3   0.1     0   Reverse          22.3
+43     V3P2      3   0.1     0   Forward          22.3
+44      TBS      3   0.1     0   Reverse          22.3
+45     V3P3      3   0.1     0   Forward          22.3
+46      TBS      3   0.1     0   Reverse          22.3
+47     V3P4      3   0.1     0   Forward          22.3
+48      TBS      3   0.1     0   Reverse          22.3
+49     V3P5      3   0.1     0   Forward          22.3
+50      TBS      3   0.1     0   Reverse          22.3
+51     V3P6      3   0.1     0   Forward          22.3
+52      TBS      3   0.1     0   Reverse          22.3
+53     V3P7      3   0.1     0   Forward          22.3
+54      TBS      3   0.1     0   Reverse          22.3
+55     V3P8      3   0.1     0   Forward          22.3
+56      TBS      3   0.1     0   Reverse          22.3
+57     V3P9      3   0.1     0   Forward          22.3
+58      TBS      3   0.1     0   Reverse          22.3
+59    V3P10      3   0.1     0   Forward          22.3
+15:32:10,883 Fluidics INFO Protocol Summary
+15:32:10,883 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+15:32:10,893 Fluidics INFO Estimated Total Time: 22m17s
+15:32:10,893 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3   0.1     0   Reverse          22.3
+15:32:35,372 Fluidics INFO 
+   port volume speed pause direction time_estimate
+1  V1P1      3   0.1     0   Forward          22.3
+15:32:59,884 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2  TBS      3   0.1     0   Reverse          22.3
+15:33:24,392 Fluidics INFO 
+   port volume speed pause direction time_estimate
+3  V1P2      3   0.1     0   Forward          22.3
+15:37:06,784 Fluidics INFO Available
+15:37:07,896 Fluidics INFO Available
+15:37:42,543 Fluidics INFO Available
+15:48:05,774 Fluidics INFO Available
+15:48:05,794 Fluidics INFO Available
+15:48:20,718 Fluidics INFO Available
+15:48:21,768 Fluidics INFO Available
+15:48:45,859 GUI INFO Checking Device Availability
+15:48:45,859 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+15:48:45,859 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:48:45,859 GUI INFO Checking if Device is Reponsive
+15:48:45,869 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:48:50,849 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+15:48:50,849 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:48:50,895 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+15:48:50,905 GUI INFO Waiting Until Protocol is Complete
+15:48:50,925 Protocol INFO Executing Protocol:
+15:48:50,925 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3   0.1     0   Reverse          22.3
+1      V1P1      3   0.1     0   Forward          22.3
+2       TBS      3   0.1     0   Reverse          22.3
+3      V1P2      3   0.1     0   Forward          22.3
+4       TBS      3   0.1     0   Reverse          22.3
+5    Valve2      3   0.1     0   Forward          22.3
+6       TBS      3   0.1     0   Reverse          22.3
+7      V1P4      3   0.1     0   Forward          22.3
+8       TBS      3   0.1     0   Reverse          22.3
+9      V1P5      3   0.1     0   Forward          22.3
+10      TBS      3   0.1     0   Reverse          22.3
+11     V1P6      3   0.1     0   Forward          22.3
+12      TBS      3   0.1     0   Reverse          22.3
+13        A      3   0.1     0   Forward          22.3
+14      TBS      3   0.1     0   Reverse          22.3
+15      TBS      3   0.1     0   Forward          22.3
+16      TBS      3   0.1     0   Reverse          22.3
+17  WBuffer      3   0.1     0   Forward          22.3
+18      TBS      3   0.1     0   Reverse          22.3
+19    Waste      3   0.1     0   Forward          22.3
+20      TBS      3   0.1     0   Reverse          22.3
+21     V2P1      3   0.1     0   Forward          22.3
+22      TBS      3   0.1     0   Reverse          22.3
+23     V2P2      3   0.1     0   Forward          22.3
+24      TBS      3   0.1     0   Reverse          22.3
+25   Valve3      3   0.1     0   Forward          22.3
+26      TBS      3   0.1     0   Reverse          22.3
+27     V2P4      3   0.1     0   Forward          22.3
+28      TBS      3   0.1     0   Reverse          22.3
+29     V2P5      3   0.1     0   Forward          22.3
+30      TBS      3   0.1     0   Reverse          22.3
+31     V2P6      3   0.1     0   Forward          22.3
+32      TBS      3   0.1     0   Reverse          22.3
+33     V2P7      3   0.1     0   Forward          22.3
+34      TBS      3   0.1     0   Reverse          22.3
+35     V2P8      3   0.1     0   Forward          22.3
+36      TBS      3   0.1     0   Reverse          22.3
+37     V2P9      3   0.1     0   Forward          22.3
+38      TBS      3   0.1     0   Reverse          22.3
+39    V2P10      3   0.1     0   Forward          22.3
+40      TBS      3   0.1     0   Reverse          22.3
+41     V3P1      3   0.1     0   Forward          22.3
+42      TBS      3   0.1     0   Reverse          22.3
+43     V3P2      3   0.1     0   Forward          22.3
+44      TBS      3   0.1     0   Reverse          22.3
+45     V3P3      3   0.1     0   Forward          22.3
+46      TBS      3   0.1     0   Reverse          22.3
+47     V3P4      3   0.1     0   Forward          22.3
+48      TBS      3   0.1     0   Reverse          22.3
+49     V3P5      3   0.1     0   Forward          22.3
+50      TBS      3   0.1     0   Reverse          22.3
+51     V3P6      3   0.1     0   Forward          22.3
+52      TBS      3   0.1     0   Reverse          22.3
+53     V3P7      3   0.1     0   Forward          22.3
+54      TBS      3   0.1     0   Reverse          22.3
+55     V3P8      3   0.1     0   Forward          22.3
+56      TBS      3   0.1     0   Reverse          22.3
+57     V3P9      3   0.1     0   Forward          22.3
+58      TBS      3   0.1     0   Reverse          22.3
+59    V3P10      3   0.1     0   Forward          22.3
+15:48:50,925 Fluidics INFO Protocol Summary
+15:48:50,935 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+15:48:50,945 Fluidics INFO Estimated Total Time: 22m17s
+15:48:50,945 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3   0.1     0   Reverse          22.3
+15:49:15,435 Fluidics INFO 
+   port volume speed pause direction time_estimate
+1  V1P1      3   0.1     0   Forward          22.3
+15:49:39,928 Fluidics INFO 
+  port volume speed pause direction time_estimate
+2  TBS      3   0.1     0   Reverse          22.3
+15:50:04,429 Fluidics INFO 
+   port volume speed pause direction time_estimate
+3  V1P2      3   0.1     0   Forward          22.3
+15:50:28,901 Fluidics INFO 
+  port volume speed pause direction time_estimate
+4  TBS      3   0.1     0   Reverse          22.3
+15:50:53,388 Fluidics INFO 
+     port volume speed pause direction time_estimate
+5  Valve2      3   0.1     0   Forward          22.3
+15:51:17,893 Fluidics INFO 
+  port volume speed pause direction time_estimate
+6  TBS      3   0.1     0   Reverse          22.3
+15:51:42,381 Fluidics INFO 
+   port volume speed pause direction time_estimate
+7  V1P4      3   0.1     0   Forward          22.3
+15:52:06,866 Fluidics INFO 
+  port volume speed pause direction time_estimate
+8  TBS      3   0.1     0   Reverse          22.3
+15:52:31,358 Fluidics INFO 
+   port volume speed pause direction time_estimate
+9  V1P5      3   0.1     0   Forward          22.3
+15:52:55,856 Fluidics INFO 
+   port volume speed pause direction time_estimate
+10  TBS      3   0.1     0   Reverse          22.3
+15:53:20,357 Fluidics INFO 
+    port volume speed pause direction time_estimate
+11  V1P6      3   0.1     0   Forward          22.3
+15:53:44,852 Fluidics INFO 
+   port volume speed pause direction time_estimate
+12  TBS      3   0.1     0   Reverse          22.3
+15:54:09,335 Fluidics INFO 
+   port volume speed pause direction time_estimate
+13    A      3   0.1     0   Forward          22.3
+15:54:33,820 Fluidics INFO 
+   port volume speed pause direction time_estimate
+14  TBS      3   0.1     0   Reverse          22.3
+15:54:58,312 Fluidics INFO 
+   port volume speed pause direction time_estimate
+15  TBS      3   0.1     0   Forward          22.3
+15:54:59,429 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+15:55:22,802 Fluidics INFO 
+   port volume speed pause direction time_estimate
+16  TBS      3   0.1     0   Reverse          22.3
+15:55:23,905 Valve INFO Move failed: ('Negative Acknowledge', False, "0 GO8 = Bad command'")
+15:55:47,279 Fluidics INFO 
+       port volume speed pause direction time_estimate
+17  WBuffer      3   0.1     0   Forward          22.3
+15:56:11,771 Fluidics INFO 
+   port volume speed pause direction time_estimate
+18  TBS      3   0.1     0   Reverse          22.3
+15:56:36,250 Fluidics INFO 
+     port volume speed pause direction time_estimate
+19  Waste      3   0.1     0   Forward          22.3
+15:57:00,766 Fluidics INFO 
+   port volume speed pause direction time_estimate
+20  TBS      3   0.1     0   Reverse          22.3
+15:57:25,268 Fluidics INFO 
+    port volume speed pause direction time_estimate
+21  V2P1      3   0.1     0   Forward          22.3
+15:57:50,878 Fluidics INFO 
+   port volume speed pause direction time_estimate
+22  TBS      3   0.1     0   Reverse          22.3
+15:58:15,371 Fluidics INFO 
+    port volume speed pause direction time_estimate
+23  V2P2      3   0.1     0   Forward          22.3
+15:58:40,963 Fluidics INFO 
+   port volume speed pause direction time_estimate
+24  TBS      3   0.1     0   Reverse          22.3
+15:59:05,449 Fluidics INFO 
+      port volume speed pause direction time_estimate
+25  Valve3      3   0.1     0   Forward          22.3
+15:59:31,34 Fluidics INFO 
+   port volume speed pause direction time_estimate
+26  TBS      3   0.1     0   Reverse          22.3
+15:59:55,527 Fluidics INFO 
+    port volume speed pause direction time_estimate
+27  V2P4      3   0.1     0   Forward          22.3
+16:00:21,126 Fluidics INFO 
+   port volume speed pause direction time_estimate
+28  TBS      3   0.1     0   Reverse          22.3
+16:00:45,622 Fluidics INFO 
+    port volume speed pause direction time_estimate
+29  V2P5      3   0.1     0   Forward          22.3
+16:01:11,216 Fluidics INFO 
+   port volume speed pause direction time_estimate
+30  TBS      3   0.1     0   Reverse          22.3
+16:01:35,715 Fluidics INFO 
+    port volume speed pause direction time_estimate
+31  V2P6      3   0.1     0   Forward          22.3
+16:02:01,326 Fluidics INFO 
+   port volume speed pause direction time_estimate
+32  TBS      3   0.1     0   Reverse          22.3
+16:02:25,819 Fluidics INFO 
+    port volume speed pause direction time_estimate
+33  V2P7      3   0.1     0   Forward          22.3
+16:02:51,414 Fluidics INFO 
+   port volume speed pause direction time_estimate
+34  TBS      3   0.1     0   Reverse          22.3
+16:03:15,887 Fluidics INFO 
+    port volume speed pause direction time_estimate
+35  V2P8      3   0.1     0   Forward          22.3
+16:03:41,489 Fluidics INFO 
+   port volume speed pause direction time_estimate
+36  TBS      3   0.1     0   Reverse          22.3
+16:04:05,975 Fluidics INFO 
+    port volume speed pause direction time_estimate
+37  V2P9      3   0.1     0   Forward          22.3
+16:04:31,580 Fluidics INFO 
+   port volume speed pause direction time_estimate
+38  TBS      3   0.1     0   Reverse          22.3
+16:04:56,63 Fluidics INFO 
+     port volume speed pause direction time_estimate
+39  V2P10      3   0.1     0   Forward          22.3
+16:05:21,669 Fluidics INFO 
+   port volume speed pause direction time_estimate
+40  TBS      3   0.1     0   Reverse          22.3
+16:05:46,146 Fluidics INFO 
+    port volume speed pause direction time_estimate
+41  V3P1      3   0.1     0   Forward          22.3
+16:06:12,858 Fluidics INFO 
+   port volume speed pause direction time_estimate
+42  TBS      3   0.1     0   Reverse          22.3
+16:06:37,350 Fluidics INFO 
+    port volume speed pause direction time_estimate
+43  V3P2      3   0.1     0   Forward          22.3
+16:06:39,574 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:07:04,70 Fluidics INFO 
+   port volume speed pause direction time_estimate
+44  TBS      3   0.1     0   Reverse          22.3
+16:07:28,556 Fluidics INFO 
+    port volume speed pause direction time_estimate
+45  V3P3      3   0.1     0   Forward          22.3
+16:07:30,780 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:07:55,284 Fluidics INFO 
+   port volume speed pause direction time_estimate
+46  TBS      3   0.1     0   Reverse          22.3
+16:08:19,768 Fluidics INFO 
+    port volume speed pause direction time_estimate
+47  V3P4      3   0.1     0   Forward          22.3
+16:08:21,982 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:08:46,493 Fluidics INFO 
+   port volume speed pause direction time_estimate
+48  TBS      3   0.1     0   Reverse          22.3
+16:09:10,986 Fluidics INFO 
+    port volume speed pause direction time_estimate
+49  V3P5      3   0.1     0   Forward          22.3
+16:09:13,197 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:09:37,686 Fluidics INFO 
+   port volume speed pause direction time_estimate
+50  TBS      3   0.1     0   Reverse          22.3
+16:10:02,185 Fluidics INFO 
+    port volume speed pause direction time_estimate
+51  V3P6      3   0.1     0   Forward          22.3
+16:10:04,428 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:10:28,928 Fluidics INFO 
+   port volume speed pause direction time_estimate
+52  TBS      3   0.1     0   Reverse          22.3
+16:10:53,428 Fluidics INFO 
+    port volume speed pause direction time_estimate
+53  V3P7      3   0.1     0   Forward          22.3
+16:10:55,638 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:11:20,116 Fluidics INFO 
+   port volume speed pause direction time_estimate
+54  TBS      3   0.1     0   Reverse          22.3
+16:11:44,607 Fluidics INFO 
+    port volume speed pause direction time_estimate
+55  V3P8      3   0.1     0   Forward          22.3
+16:11:46,823 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:12:11,318 Fluidics INFO 
+   port volume speed pause direction time_estimate
+56  TBS      3   0.1     0   Reverse          22.3
+16:12:35,795 Fluidics INFO 
+    port volume speed pause direction time_estimate
+57  V3P9      3   0.1     0   Forward          22.3
+16:12:38,17 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:13:02,509 Fluidics INFO 
+   port volume speed pause direction time_estimate
+58  TBS      3   0.1     0   Reverse          22.3
+16:13:26,995 Fluidics INFO 
+     port volume speed pause direction time_estimate
+59  V3P10      3   0.1     0   Forward          22.3
+16:13:29,214 Valve INFO Move failed: ('Negative Acknowledge', False, "1 GO3 = Bad command'")
+16:13:53,704 Fluidics INFO Finished:ReverseFlush*[]*TBS+3
+16:13:53,764 Fluidics INFO Finished:ReverseFlush*[]*TBS+3
+16:13:58,714 Fluidics INFO Finished:ReverseFlush*[]*TBS+3
+12:22:16,792 GUI INFO Checking Device Availability
+12:22:16,792 GUI INFO Communicating with Device:Command:ReverseFlush*[]*TBS+3
+12:22:16,792 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+12:22:16,792 GUI INFO Checking if Device is Reponsive
+12:22:16,812 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+12:22:17,952 Fluidics INFO Command:ReverseFlush*[]*TBS+3
+12:22:17,952 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+12:22:17,982 Fluidics INFO Running:ReverseFlush*[]*TBS+3
+12:22:17,982 GUI INFO Waiting Until Protocol is Complete
+12:22:18,2 Protocol INFO Executing Protocol:
+12:22:18,2 Protocol INFO 
+       port volume speed pause direction time_estimate
+0       TBS      3   0.1     0   Reverse          22.3
+1      V1P1      3   0.1     0   Forward          22.3
+2       TBS      3   0.1     0   Reverse          22.3
+3      V1P2      3   0.1     0   Forward          22.3
+4       TBS      3   0.1     0   Reverse          22.3
+5    Valve2      3   0.1     0   Forward          22.3
+6       TBS      3   0.1     0   Reverse          22.3
+7      V1P4      3   0.1     0   Forward          22.3
+8       TBS      3   0.1     0   Reverse          22.3
+9      V1P5      3   0.1     0   Forward          22.3
+10      TBS      3   0.1     0   Reverse          22.3
+11     V1P6      3   0.1     0   Forward          22.3
+12      TBS      3   0.1     0   Reverse          22.3
+13        A      3   0.1     0   Forward          22.3
+14      TBS      3   0.1     0   Reverse          22.3
+15      TBS      3   0.1     0   Forward          22.3
+16      TBS      3   0.1     0   Reverse          22.3
+17  WBuffer      3   0.1     0   Forward          22.3
+18      TBS      3   0.1     0   Reverse          22.3
+19    Waste      3   0.1     0   Forward          22.3
+20      TBS      3   0.1     0   Reverse          22.3
+21     V2P1      3   0.1     0   Forward          22.3
+22      TBS      3   0.1     0   Reverse          22.3
+23     V2P2      3   0.1     0   Forward          22.3
+24      TBS      3   0.1     0   Reverse          22.3
+25   Valve3      3   0.1     0   Forward          22.3
+26      TBS      3   0.1     0   Reverse          22.3
+27     V2P4      3   0.1     0   Forward          22.3
+28      TBS      3   0.1     0   Reverse          22.3
+29     V2P5      3   0.1     0   Forward          22.3
+30      TBS      3   0.1     0   Reverse          22.3
+31     V2P6      3   0.1     0   Forward          22.3
+32      TBS      3   0.1     0   Reverse          22.3
+33     V2P7      3   0.1     0   Forward          22.3
+34      TBS      3   0.1     0   Reverse          22.3
+35     V2P8      3   0.1     0   Forward          22.3
+36      TBS      3   0.1     0   Reverse          22.3
+37     V2P9      3   0.1     0   Forward          22.3
+38      TBS      3   0.1     0   Reverse          22.3
+39    V2P10      3   0.1     0   Forward          22.3
+40      TBS      3   0.1     0   Reverse          22.3
+41     V3P1      3   0.1     0   Forward          22.3
+42      TBS      3   0.1     0   Reverse          22.3
+43     V3P2      3   0.1     0   Forward          22.3
+44      TBS      3   0.1     0   Reverse          22.3
+45     V3P3      3   0.1     0   Forward          22.3
+46      TBS      3   0.1     0   Reverse          22.3
+47     V3P4      3   0.1     0   Forward          22.3
+48      TBS      3   0.1     0   Reverse          22.3
+49     V3P5      3   0.1     0   Forward          22.3
+50      TBS      3   0.1     0   Reverse          22.3
+51     V3P6      3   0.1     0   Forward          22.3
+52      TBS      3   0.1     0   Reverse          22.3
+53     V3P7      3   0.1     0   Forward          22.3
+54      TBS      3   0.1     0   Reverse          22.3
+55     V3P8      3   0.1     0   Forward          22.3
+56      TBS      3   0.1     0   Reverse          22.3
+57     V3P9      3   0.1     0   Forward          22.3
+58      TBS      3   0.1     0   Reverse          22.3
+59    V3P10      3   0.1     0   Forward          22.3
+12:22:18,2 Fluidics INFO Protocol Summary
+12:22:18,12 Fluidics INFO Port: TBS  Total Volume: 90.0mL
+12:22:18,22 Fluidics INFO Estimated Total Time: 22m17s
+12:22:18,22 Fluidics INFO 
+  port volume speed pause direction time_estimate
+0  TBS      3   0.1     0   Reverse          22.3
